@@ -13,7 +13,7 @@
 }
 :root{
     --main-color: #16b978;
-    --second-color:#081b54;
+    --second-color:#5ba061;
 }
 section {
     padding: 50px 10%;
@@ -86,7 +86,7 @@ header.active .navbar a {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    background: rgb(240, 210, 215);
+    background: rgb(167, 211, 156);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -128,7 +128,7 @@ header.active .navbar a {
     display: flex;
     align-items: center;
     flex-direction: column;
-    background: url(img/green-texture.jpg);
+    background: rgb(167, 211, 156);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
