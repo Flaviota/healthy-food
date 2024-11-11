@@ -6,4 +6,4 @@
 - Based on green tones.
 
 
-![Screenshot of the burger shop page](food_page1.png)
+![Screenshot of the burger shop page](food_page2.png)
